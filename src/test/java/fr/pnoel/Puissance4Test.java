@@ -48,7 +48,7 @@ public class Puissance4Test {
         // Given
         Puissance4 puissance4 = new Puissance4();
         int[][] board =
-                {{0,0,0,0,0,0,0}
+                         {{0,0,0,0,0,0,0}
                         , {0,0,0,0,0,0,0}
                         , {0,0,0,0,0,0,0}
                         , {0,0,0,0,0,0,0}
